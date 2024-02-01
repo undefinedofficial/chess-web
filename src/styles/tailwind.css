@@ -1,0 +1,10 @@
+@import "@/styles/fonts.css";
+
+@tailwind base;
+@layer base {
+  html {
+    @apply font-noto;
+  }
+}
+@tailwind components;
+@tailwind utilities;

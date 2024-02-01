@@ -1,0 +1,7 @@
+@startuml test
+title "Create chess room"
+Player -> Server: Connect room (id)
+Player -> Server: Connect room (id)
+Player -> Player2: HEllo
+
+@enduml
